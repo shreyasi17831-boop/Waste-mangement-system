@@ -1,0 +1,41 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px;
+    padding:50px 300px 50px 300px ;
+    display:flex;
+    gap:50px;
+    background-color: lightgreen;
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    padding: 50px 10px 0px 250px;
+    
+}
+p{
+    padding:50px 20px 0px 250px;
+}
+h3{
+    
+    border-color: blue;
+}
+#abc{
+    font-size: 20px;
+    
+}
+#measures{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top:200px ;
+}
+button{
+    width: 200px;
+    height:50px;
+    background-color: lightgreen;
+    border-color: white;
+    
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
