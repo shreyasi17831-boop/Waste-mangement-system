@@ -39,3 +39,23 @@ button{
     font-family: 'Times New Roman', Times, serif;
     
 }
+footer{
+    background-color: lightgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+main{
+    padding-bottom: 200px;
+}
+#footer_1{
+    padding-left:450px;
+    font-size: 25px;
+    display:flex;
+    gap:50px;
+
+}
+#footer_2{
+    font-size:20px;
+    padding-left:650px;
+}
